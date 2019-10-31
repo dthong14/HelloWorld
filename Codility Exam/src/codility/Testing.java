@@ -11,7 +11,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 
-public class Test1 {
+public class Testing {
 
 	/**
 	 * @param args
@@ -22,7 +22,7 @@ public class Test1 {
 		int[] A = {2,1,3,5,4};
 		int[] B = {1,4,-1,3,2};
 		
-		Test1 t = new Test1();
+		Testing t = new Testing();
 //		int x = t.frog(B);
 //		t.printWithoutLoop(0);
 //		System.out.println("ans : "+x);		
